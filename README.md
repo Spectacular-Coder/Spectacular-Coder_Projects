@@ -1,2 +1,5 @@
 # Spectacular-Coder_Projects
-This has all Spectacular-Coder's projects!
+
+This is a python game called "Shoot the Fruit." 
+This was my first python game I ever made!!
+
